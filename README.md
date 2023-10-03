@@ -1,10 +1,16 @@
+<div id="header" align="center">
+<img src=https://github.com/luisayala323/luisayala323/blob/main/assets/Dark%20Neon%20Simple%20Futuristic%20UIUX%20Designer%20LinkedIn%20Banner.gif/>
+</div>
+
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Luis J. Ayala Mercado
 Web Developer and Designer.
+
 
  <br> 🌍  I'm based in Puerto Rico <br>
  🧠  I'm learning Next.js <br>
      💻  Holberton Student
-
+<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/luisayala323/luisayala323/blob/main/assets/1.gif">
 
 
 ### Skills
