@@ -42,7 +42,7 @@ Web Developer and Designer.
 
 If you want to reach out to me about anything 😉.
 
-<a href="luisayala323@gmail.com">
+<a href="mailto:luisayala323@gmail.com">
  <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/luisayala323/luisayala323/blob/main/assets/icons/gmail.png" />
 </a>
 
