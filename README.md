@@ -47,7 +47,7 @@ If you want to reach out to me about anything 😉.
 </a>
 
 
-<a href="https://github.com/luisayala323">
+<a href="https://www.linkedin.com/in/luis-ayala-29794a226">
   <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/luisayala323/luisayala323/blob/main/assets/icons/linkedin.png"/>
 </a>
 
