@@ -65,3 +65,12 @@ If you want to reach out to me about anything 😉.
 <img  src="https://github.com/luisayala323/luisayala323/blob/main/assets/2.gif"/>
   </a>
   </p>
+
+  
+  # Hobbies 
+<p align="center">  
+ ✨ Movies
+ ✨ Gaming 
+ ✨ Watching Anime
+ ✨ Fishing ✨
+</p>
