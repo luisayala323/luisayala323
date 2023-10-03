@@ -45,8 +45,8 @@ If you want to reach out to me about anything 😉.
 <a href="luisayala323@gmail.com">
  <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/luisayala323/luisayala323/blob/main/assets/icons/gmail.png" />
 </a>
-</br>
-</br>
+
+
 <a href="https://github.com/luisayala323">
   <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/luisayala323/luisayala323/blob/main/assets/icons/linkedin.png"/>
 </a>
