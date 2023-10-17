@@ -39,7 +39,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <img hight="320" width="450" align="right" alt="GIF" src="https://github.com/luisayala323/luisayala323/blob/main/assets/3.webp">
 
 
-If you want to reach out to me about anything 😉.
+If you want to reach out to me let me know. Looking forward to connecting with you!
 
 <a href="mailto:luisayala323@gmail.com">
  <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/luisayala323/luisayala323/blob/main/assets/icons/gmail.png" />
