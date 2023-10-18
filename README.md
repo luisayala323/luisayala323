@@ -79,6 +79,7 @@ If you want to reach out to me let me know. Looking forward to connecting with y
 
 *************
 <p align="center" >   
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Permanent+Marker+&weight=500&size=25&pause=1000&color=9A47F7&random=false&width=435&lines=Thank+you+for+stopping+by!+%F0%9F%91%BA" alt="Typing SVG" /></a>
 <img  src="https://github.com/luisayala323/luisayala323/blob/main/assets/2.gif"/>
   </a>
   </p>
