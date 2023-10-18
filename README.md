@@ -11,6 +11,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
      💻  Holberton Student
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/luisayala323/luisayala323/blob/main/assets/1.gif">
 
+![](https://komarev.com/ghpvc/?username=luisayala323&style=flat)
 
 ## Skills
 
